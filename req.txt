@@ -1,0 +1,6 @@
+colorama
+requests
+termcolor2
+subprocess
+os
+time
