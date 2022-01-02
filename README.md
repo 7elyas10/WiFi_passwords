@@ -11,7 +11,7 @@ cd WiFi_passwords
 
 pip install -r req.txt
 
-python WiFi_passwords.py
+python wifipass.py
 
 ```
 
